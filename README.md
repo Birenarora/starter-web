@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 # How to Contribute to README.md file
 
-##Editing .md files
+## Editing .md files
