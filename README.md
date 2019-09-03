@@ -10,3 +10,6 @@ Sample website with plenty of files for demos
 
 ## Editing .md files
 This is a type where we can edit README.md file
+
+### Adding copyright
+Copytright notice
