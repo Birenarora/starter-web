@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Biren Arora arora_biren@yahoo.com
 
 # THANKS
 
