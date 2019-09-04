@@ -16,4 +16,4 @@ Updating readme.md file in master branch
 This is a type where we can edit README.md file
 
 ### Adding copyright
-Copytright notice
+Copytright notice, all irghts resevred
