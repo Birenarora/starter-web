@@ -2,7 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
-Adding a line for rebasing file
+Adding a line for rebasing file,
+more chnages 
 
 ## Purpose
 
